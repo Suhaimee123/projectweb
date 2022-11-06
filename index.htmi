@@ -1,0 +1,44 @@
+<footer id="footer">
+  <div class="row" style="  margin-left: 20px;">
+    <div class="col-xs-12 col-sm-12 col-md-3 visible-md-block visible-lg-block">
+
+
+          <p>PIXEL UNION</p>
+
+
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-3 visible-md-block visible-lg-block">
+
+          <p>THEMES</p>
+
+          <p>Atlantic</p>
+          <p>Editions</p>
+          <p>Empire</p>
+          <p>Grid</p>
+          <p>Launch</p>
+
+
+    </div>
+
+    <div class="col-xs-12 col-sm-12 col-md-3 visible-md-block visible-lg-block">
+            <p>THEME UPDATER</p>
+            <p>Overview</p>
+            <p>Frequently asked questions</p>
+            <p>Themes</p>
+            <p>Account</p>
+
+
+  </div>
+    <div class="col-xs-12 col-sm-12 col-md-3 visible-md-block visible-lg-block">
+      <p>SUPPORT</p>
+      <p>Support Policy</p>
+      <p>Observed Holidays</p>
+     <a class="btn btn-outline-dark" href="contact.html" role="button">contact</a>
+
+
+
+
+  </div>
+  <p>© For Study purpose</p>
+  </footer>
+
